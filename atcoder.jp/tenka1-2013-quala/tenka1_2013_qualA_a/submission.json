@@ -1,0 +1,12 @@
+{
+	"id": 11615692,
+	"epoch_second": 1586175781,
+	"problem_id": "tenka1_2013_qualA_a",
+	"contest_id": "tenka1-2013-quala",
+	"user_id": "tttnishimo",
+	"language": "PHP (5.6.30)",
+	"point": 20,
+	"length": 9,
+	"result": "AC",
+	"execution_time": 9
+}
