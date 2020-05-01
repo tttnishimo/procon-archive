@@ -1,0 +1,12 @@
+{
+	"id": 12548208,
+	"epoch_second": 1588339537,
+	"problem_id": "past201912_a",
+	"contest_id": "past201912-open",
+	"user_id": "tttnishimo",
+	"language": "Python3 (3.4.3)",
+	"point": 9,
+	"length": 272,
+	"result": "AC",
+	"execution_time": 17
+}
