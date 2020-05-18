@@ -1,0 +1,12 @@
+{
+	"id": 13380707,
+	"epoch_second": 1589808510,
+	"problem_id": "tenka1_2014_qualA_a",
+	"contest_id": "tenka1-2014-quala",
+	"user_id": "tttnishimo",
+	"language": "Python3 (3.4.3)",
+	"point": 20,
+	"length": 101,
+	"result": "AC",
+	"execution_time": 18
+}
