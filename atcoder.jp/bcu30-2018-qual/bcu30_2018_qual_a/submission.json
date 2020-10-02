@@ -1,0 +1,12 @@
+{
+	"id": 17144000,
+	"epoch_second": 1601654525,
+	"problem_id": "bcu30_2018_qual_a",
+	"contest_id": "bcu30-2018-qual",
+	"user_id": "tttnishimo",
+	"language": "Python (3.8.2)",
+	"point": 100,
+	"length": 101,
+	"result": "AC",
+	"execution_time": 55
+}
