@@ -1,0 +1,10 @@
+n,x=map(int,input().split())
+s=input()
+for i in range(n):
+  if s[i]=='o':
+    x+=1
+  elif x==0:
+    pass
+  else:
+    x-=1
+print(x)
