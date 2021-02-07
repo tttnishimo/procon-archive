@@ -1,0 +1,12 @@
+{
+	"id": 20039280,
+	"epoch_second": 1612710942,
+	"problem_id": "k2pc001_e2",
+	"contest_id": "k2pc-easy",
+	"user_id": "tttnishimo",
+	"language": "Python (3.8.2)",
+	"point": 1000,
+	"length": 349,
+	"result": "AC",
+	"execution_time": 28
+}
