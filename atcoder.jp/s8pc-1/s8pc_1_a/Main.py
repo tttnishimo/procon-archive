@@ -1,0 +1,1 @@
+print(18*60/(int(input())-1))
