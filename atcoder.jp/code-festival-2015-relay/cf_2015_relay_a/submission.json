@@ -1,0 +1,12 @@
+{
+	"id": 20175902,
+	"epoch_second": 1613286740,
+	"problem_id": "cf_2015_relay_a",
+	"contest_id": "code-festival-2015-relay",
+	"user_id": "tttnishimo",
+	"language": "Python (3.8.2)",
+	"point": 100,
+	"length": 11,
+	"result": "AC",
+	"execution_time": 25
+}
