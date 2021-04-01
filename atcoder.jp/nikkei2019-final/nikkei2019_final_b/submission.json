@@ -1,0 +1,12 @@
+{
+	"id": 21452331,
+	"epoch_second": 1617321405,
+	"problem_id": "nikkei2019_final_b",
+	"contest_id": "nikkei2019-final",
+	"user_id": "tttnishimo",
+	"language": "Python (3.8.2)",
+	"point": 200,
+	"length": 296,
+	"result": "AC",
+	"execution_time": 91
+}
