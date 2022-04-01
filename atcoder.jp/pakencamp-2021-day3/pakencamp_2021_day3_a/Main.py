@@ -1,0 +1,1 @@
+print(int([input() for _ in range(4)].count('1111')))
