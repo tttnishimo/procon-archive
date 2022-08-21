@@ -1,0 +1,5 @@
+N=int(input())
+A=list(map(int,input().split()))
+A.sort(reverse=True)
+a,b,c=map(str,A[0:3])
+print(max(int(a+b+c),int(a+c+b),int(b+a+c),int(b+c+a),int(c+a+b),int(c+b+a)))
